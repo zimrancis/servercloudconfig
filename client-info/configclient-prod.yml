@@ -1,9 +1,9 @@
 datosservidor:
- minimum 1000
+ minimum: 1000
 datosservidor:
- maximum 2000
+ maximum: 2000
 limites:
- minimum 10
+ minimum: 10
 valores:
  valor_fijo: VALORFIJOPROD
 valores:
