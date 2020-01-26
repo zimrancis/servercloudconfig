@@ -5,6 +5,6 @@ datosservidor:
 limites:
  minimum: 10
 valores:
- valor_fijo: VALORFIJOPROD
+ valorfijo: VALORFIJOPROD
 valores:
- valor_funcion: "VALORFUNCIONPROD"
+ valorfuncion: "VALORFUNCIONPROD"
